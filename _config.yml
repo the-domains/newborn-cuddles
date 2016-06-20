@@ -1,5 +1,6 @@
-layout_spectrum: 0.8530770638026297
 typography_spectrum: 0.07187288673594594
+content_rating:
+  adult: false
 color:
   brandStrength: 0.030910169007256627
   lightness: 0.12961559742689133
@@ -11,4 +12,10 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-name: newborn cuddles
+opengraph:
+  type: ''
+layout_spectrum: 0.8530770638026297
+author:
+  name: Heather
+  email: ''
+name: Heather Watson Photography
